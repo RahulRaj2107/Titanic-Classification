@@ -1,1 +1,1 @@
-# Titanic-Classification
+# titanic_classification
